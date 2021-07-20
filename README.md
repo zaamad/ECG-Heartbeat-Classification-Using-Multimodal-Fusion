@@ -14,5 +14,12 @@
 ## Citation
 
 ### If you find the work presented and codes useful for your research then please cite the following Paper.
+### @article{ahmad2021ecg,
+### title={ECG Heartbeat Classification Using Multimodal Fusion},
+### author={Ahmad, Zeeshan and Tabassum, Anika and Guan, Ling and Khan, Naimul Mefraz},
+### journal={IEEE Access},
+### year={2021},
+### publisher={IEEE}
+### }
 
 
